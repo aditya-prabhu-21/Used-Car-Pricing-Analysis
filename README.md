@@ -6,4 +6,4 @@ The analysis identified several major drivers of used car pricing. Vehicle milea
 
 Manufacturer and model were among the most influential categorical predictors. Luxury and high-performance vehicles such as Ferrari, Porsche, Tesla, Corvette, Land Cruiser, and high-end SUV models had significantly higher predicted prices. In contrast, economy-oriented vehicles such as the Ford Fiesta, Chevrolet Spark, and Ford EcoSport were associated with substantially lower prices.
 
-Link to notebook: https://github.com/aditya-prabhu-21/Used-Car-Pricing-Analysis.git
+Link to notebook: [https://github.com/aditya-prabhu-21/Used-Car-Pricing-Analysis.git](https://github.com/aditya-prabhu-21/Used-Car-Pricing-Analysis/blob/main/Used_Car_Pricing.ipynb)
